@@ -1,6 +1,6 @@
 # YallaMorph
 
-**YallaMorph: A Benchmark for Evaluating Arabic Morphological Generation in Large Language Models**
+[**YallaMorph: A Benchmark for Evaluating Arabic Morphological Generation in Large Language Models**](https://arxiv.org/pdf/2609.10153v1)
 
 YallaMorph is a large-scale benchmark for evaluating the ability of Large Language Models (LLMs) to perform **controlled Arabic morphological generation**.
 
